@@ -27,13 +27,13 @@
 
 ```
 ├── rfm-football-transfers/
-│   ├── Final_Football_project_fixed.ipynb
+│   ├── Final_Football_project_II.ipynb
 │   ├── requirements.txt
-│   └── README.md
+│   └── README_rfm.md
 ├── ab-test-ads-vs-psa/
 │   ├── ab_test.ipynb
 │   ├── marketing_AB.csv
-│   └── README.md
+│   └── README_AB.md
 └── README.md
 ```
 
@@ -43,4 +43,4 @@
 
 ## Контакты
 
-Telegram: @ваш_ник · Email: ваш@email · LinkedIn: ссылка
+Telegram: @Nick_Shustov · Email: shust.n1@gmail.com · hh: https://clck.ru/3WTo4e
